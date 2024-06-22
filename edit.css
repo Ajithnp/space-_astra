@@ -1,0 +1,44 @@
+/* .green-image{
+
+    width: 100%; /* Adjust the percentage as needed */
+    /* max-width: 500px; /* Optional: Set a maximum width in pixels */
+    
+      
+/* }
+.section-three{
+   background-color:black;
+
+}
+.span-content{
+    margin-left: -0.40rem;
+} */ 
+/* .button-combo1{
+    border: 1px solid white;
+    border-left: none;
+    
+}
+bo */
+
+/* @media (max-width:760px){
+    .span-container{
+        display:flex;
+        flex-direction: column;
+        border: 1px solid white;
+        border-top: none;
+        border-bottom: none;
+    }
+} */
+
+p:first-child{
+    border-bottom:1px solid rgb(239, 239, 239) ;
+    padding: 10px 20px 20px;
+    border-right: 1px solid rgb(201, 30, 30);
+}
+p:last-child{
+    padding: 10px 20px 20px;
+}
+.div{
+   vertical-align: middle;
+    
+    width: fit-content;
+}
